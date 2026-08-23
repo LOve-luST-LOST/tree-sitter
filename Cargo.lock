@@ -2189,6 +2189,7 @@ dependencies = [
  "anstyle",
  "bitflags",
  "dunce",
+ "hashbrown 0.17.1",
  "indexmap",
  "log",
  "memchr",
